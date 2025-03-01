@@ -25,6 +25,8 @@ The **Result Management System** is a scalable and efficient solution designed t
 📌 **Top Performers** – Identifies high-achieving students.  
 📌 **Standard Deviation** – Measures performance variability per subject.  
 
+![Dashboard Visualization](https://github.com/himanshukasyap7o7/Result-Management-System/blob/main/newplot.png?raw=true)
+
 ## 🔥 Technologies Used  
 🚀 **Apache Spark & PySpark** – Big Data Processing  
 📊 **Plotly** – Data Visualization  
