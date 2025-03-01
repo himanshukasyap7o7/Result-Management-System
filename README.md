@@ -37,6 +37,8 @@ The **Result Management System** is a scalable and efficient solution designed t
 📌 **Programming** is the easiest, with a **high pass rate (~80%)** and average marks of ~70.  
 📌 **Performance Gaps Exist**, highlighting opportunities for targeted interventions.  
 
+![Dashboard Visualization](https://github.com/himanshukasyap7o7/Result-Management-System/blob/main/newplot2.jpg?raw=true)
+
 ## 🔮 Future Enhancements  
 🔹 **Real-time Student Data Integration**  
 🔹 **Predictive Analytics for Performance Forecasting**  
