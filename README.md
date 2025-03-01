@@ -31,13 +31,11 @@ The **Result Management System** is a scalable and efficient solution designed t
 🚀 **Apache Spark & PySpark** – Big Data Processing  
 📊 **Plotly** – Data Visualization  
 🐍 **Python** – Core Language  
-
+![Dashboard Visualization](https://github.com/himanshukasyap7o7/Result-Management-System/blob/main/newplot2.jpg?raw=true)
 ## 📌 Key Insights  
 📌 **Mathematics** has the lowest pass rate (~50%), making it the most challenging subject.  
 📌 **Programming** is the easiest, with a **high pass rate (~80%)** and average marks of ~70.  
 📌 **Performance Gaps Exist**, highlighting opportunities for targeted interventions.  
-
-![Dashboard Visualization](https://github.com/himanshukasyap7o7/Result-Management-System/blob/main/newplot2.jpg?raw=true)
 
 ## 🔮 Future Enhancements  
 🔹 **Real-time Student Data Integration**  
